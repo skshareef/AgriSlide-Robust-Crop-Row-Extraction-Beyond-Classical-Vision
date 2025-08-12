@@ -23,9 +23,6 @@ AgriSlide compares two ways to extract crop rows from **machine-learning vegetat
 
 ---
 
-
-
-
 ## Quickstart
 
 - **Camera** — publish a color image on `/camera/color/image_raw` (from Gazebo or a real camera).
@@ -70,7 +67,10 @@ AgriSlide compares two ways to extract crop rows from **machine-learning vegetat
 
 ## Screenshots (to be added)
 
-Place images under `assets/screenshots/` and reference them here:
+> **Tip:** GitHub doesn’t allow YouTube to play inline in README, so we use a clickable thumbnail.
+
+**▶️ Watch the demo (YouTube)**  
+[![AgriSlide Demo](https://img.youtube.com/vi/yABlitEfaKY/hqdefault.jpg)](https://www.youtube.com/watch?v=yABlitEfaKY)
 
 - AgriSlide overlay (mask + polylines + midline)  
   ![AgriSlide Overlay](assets/screenshots/agrislide_overlay.png)
@@ -88,6 +88,3 @@ Place images under `assets/screenshots/` and reference them here:
 - **No mask / all black:** confirm `models/deeplab_full_model.pt` path and device (CPU/GPU) match your install.  
 - **Jittery errors:** raise `minpix`, increase `margin`, or increase EMA `alpha` slightly.  
 - **No Hough lines:** lower `hough_threshold` or `canny_high_threshold`; ensure mask isn’t over-eroded.
-
-
-
