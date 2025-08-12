@@ -1,0 +1,1 @@
+# AgriSlide-Robust-Crop-Row-Extraction-Beyond-Classical-Vision
