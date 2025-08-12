@@ -70,7 +70,7 @@ AgriSlide compares two ways to extract crop rows from **machine-learning vegetat
 > **Tip:** GitHub doesn’t allow YouTube to play inline in README, so we use a clickable thumbnail.
 
 **▶️ Watch the demo (YouTube)**  
-[![AgriSlide Demo](https://img.youtube.com/vi/yABlitEfaKY/hqdefault.jpg)](https://www.youtube.com/watch?v=yABlitEfaKY)
+[![AgriSlide Demo](https://youtu.be/yABlitEfaKY)](https://youtu.be/yABlitEfaKY)
 
 - AgriSlide overlay (mask + polylines + midline)  
   ![AgriSlide Overlay](assets/screenshots/agrislide_overlay.png)
