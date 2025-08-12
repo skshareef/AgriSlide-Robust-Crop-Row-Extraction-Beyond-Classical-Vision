@@ -65,21 +65,11 @@ AgriSlide compares two ways to extract crop rows from **machine-learning vegetat
 
 ---
 
-## Screenshots (to be added)
+## More Info?
 
-> **Tip:** GitHub doesn’t allow YouTube to play inline in README, so we use a clickable thumbnail.
+Visit this link: 
 
-**▶️ Watch the demo (YouTube)**  
-[![AgriSlide Demo](https://youtu.be/yABlitEfaKY)](https://youtu.be/yABlitEfaKY)
 
-- AgriSlide overlay (mask + polylines + midline)  
-  ![AgriSlide Overlay](assets/screenshots/agrislide_overlay.png)
-
-- Classical overlay (edges + lines + midline)  
-  ![Classical Overlay](assets/screenshots/classical_overlay.png)
-
-- Error traces (lateral & angular vs time)  
-  ![Error Traces](assets/screenshots/error_traces.png)
 
 ---
 
